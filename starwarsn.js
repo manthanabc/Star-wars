@@ -19,7 +19,7 @@ function prelode(){
  galaxy=loadImage('data/thegalaxcy.jpg'); 
  stardis=loadImage('data/rhrhh.jpg');
  arrow=loadImage('data/arrow.png');
- arrow2=loadImage('data/arrow1.png');
+ arrow2=loadImage('data/arrow2.png');
  crossbt=loadImage('data/crossbt.png');
 }
 
