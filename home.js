@@ -1,7 +1,7 @@
 
  function home(y){
    
-   background(80,0,0);
+   background(0,0,0);
    image(galaxy,-100+hidden,y,width+100-hidden,height*2);      
    noFill();
    
